@@ -1,2 +1,2 @@
-a=10
-print(a, "Goodbye world")
+b=10
+print(b, "Goodbye world")
