@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Goodbye world" << std::endl;
+    int a=0x10;
+    std::cout << a <<"Goodbye world" << std::endl;
     return 0;
 }
