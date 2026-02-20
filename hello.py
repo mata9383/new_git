@@ -1,2 +1,3 @@
 b=10
-print(b, "Goodbye world")
+c="WD"
+print(b, c, "Goodbye world")
